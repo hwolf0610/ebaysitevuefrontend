@@ -5,9 +5,9 @@
   "author": "hwolf0610",
   "private": true,
   "scripts": {
-    "dev": "nuxt",
+    "dev": "nuxt  --port 3333",
     "build": "nuxt build",
-    "start": "nuxt start",
+    "start": "nuxt start ",
     "generate": "nuxt generate"
   },
   "dependencies": {
