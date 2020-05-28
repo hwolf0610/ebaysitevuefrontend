@@ -3,7 +3,7 @@
     <div>
       <logo />
       <h1 class="title">ebaySiteVue</h1>
-      <h2 class="subtitle">My grand Nuxt.js project</h2>
+      <h2 class="subtitle">just update</h2>
 
       <nuxt-link to="/login" class="button--green">
         <span>Login</span>
